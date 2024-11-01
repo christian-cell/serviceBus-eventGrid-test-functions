@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netNinja.ServiceBusTest.Functions", "netNinja.ServiceBusTest.Functions\netNinja.ServiceBusTest.Functions.csproj", "{7B2478D8-BCB9-4544-A1E5-42D0339A109A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netNinja.ServiceBusTests.Models", "netNinja.ServiceBusTests.Models\netNinja.ServiceBusTests.Models.csproj", "{C5223744-A7D2-42B5-BCF4-E47DBC2AC4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netNinja.ServiceBusTest.Services", "netNinja.ServiceBusTest.Services\netNinja.ServiceBusTest.Services.csproj", "{614862CA-C85F-48D8-8787-EC073E9E29C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netNinja.ServiceBusTest.ServiceBusTrigger.Functions", "netNinja.ServiceBusTest.ServiceBusTrigger.Functions\netNinja.ServiceBusTest.ServiceBusTrigger.Functions.csproj", "{D72E3240-CF25-4FCC-A290-22EA6017AF65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2478D8-BCB9-4544-A1E5-42D0339A109A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2478D8-BCB9-4544-A1E5-42D0339A109A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2478D8-BCB9-4544-A1E5-42D0339A109A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2478D8-BCB9-4544-A1E5-42D0339A109A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5223744-A7D2-42B5-BCF4-E47DBC2AC4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5223744-A7D2-42B5-BCF4-E47DBC2AC4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5223744-A7D2-42B5-BCF4-E47DBC2AC4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5223744-A7D2-42B5-BCF4-E47DBC2AC4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614862CA-C85F-48D8-8787-EC073E9E29C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614862CA-C85F-48D8-8787-EC073E9E29C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614862CA-C85F-48D8-8787-EC073E9E29C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614862CA-C85F-48D8-8787-EC073E9E29C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72E3240-CF25-4FCC-A290-22EA6017AF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72E3240-CF25-4FCC-A290-22EA6017AF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72E3240-CF25-4FCC-A290-22EA6017AF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72E3240-CF25-4FCC-A290-22EA6017AF65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

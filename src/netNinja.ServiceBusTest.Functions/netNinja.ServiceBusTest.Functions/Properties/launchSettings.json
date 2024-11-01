@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "netNinja.ServiceBusTest.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7097",
+      "launchBrowser": false
+    }
+  }
+}
